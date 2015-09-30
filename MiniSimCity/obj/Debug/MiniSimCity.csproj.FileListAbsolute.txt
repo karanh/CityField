@@ -1,0 +1,8 @@
+E:\MiniSimCity\MiniSimCity\MiniSimCity\obj\Debug\ResolveAssemblyReference.cache
+E:\MiniSimCity\MiniSimCity\MiniSimCity\obj\Debug\MiniSimCity.Properties.Resources.resources
+E:\MiniSimCity\MiniSimCity\MiniSimCity\obj\Debug\MiniSimCity.csproj.GenerateResource.Cache
+E:\MiniSimCity\MiniSimCity\MiniSimCity\bin\Debug\MiniSimCity.exe
+E:\MiniSimCity\MiniSimCity\MiniSimCity\bin\Debug\MiniSimCity.pdb
+E:\MiniSimCity\MiniSimCity\MiniSimCity\obj\Debug\MiniSimCity.exe
+E:\MiniSimCity\MiniSimCity\MiniSimCity\obj\Debug\MiniSimCity.pdb
+E:\MiniSimCity\MiniSimCity\MiniSimCity\obj\Debug\MiniSimCity.MiniSimCity.resources
